@@ -75,7 +75,9 @@
 				<configuration>
 					<includes>
 
-							<include>**/*TestRunner.java</include>      
+						<!--	<include>**/*TestRunner.java</include>--> 
+						<include>**/*SepidehRunner.java</include>--> 
+						     
 
 
 					</includes>
